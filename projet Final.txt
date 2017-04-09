@@ -1,0 +1,12 @@
+Créer un compte bancaire avec un indiquant le type de compte
+Simple (XF)
+Excellence (YF)
+
+Un client peut avoir plusieurs comptes
+
+
+Permetrre de faire des depots , des retrait et des virements entre compte de la même banque
+
+Visualiser le Solde d'un Compte
+
+-Visualiser les Operations d'un Compte entre deux dates
